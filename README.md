@@ -19,8 +19,8 @@
 Je suis un **développeur full-stack** passionné par **l'innovation** et la **création de solutions efficaces**. J'adore transformer des idées complexes en applications simples et fonctionnelles.
 
 - 🔭 **Actuellement :** Développement de solutions en **Java, PHP, JavaScript, et plus encore**
-- 🌱 **En ce moment, j'apprends :** [Technologie ou compétence que tu apprends actuellement]
-- 🎯 **Objectif de l'année :** [Ton Objectif Principal]
+- 🌱 **En ce moment, j'apprends :** ReactJS **
+- 🎯 **Objectif de l'année :** Aider le plus de monde **
 
 ---
 
